@@ -87,7 +87,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/levina-lab/video-stream"
+                        "🌐 WhatsAap", url="https://wa.me/qr/XALM4UGBUJJWI1"
                     )
                 ],
             ]
