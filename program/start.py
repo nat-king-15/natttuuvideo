@@ -87,7 +87,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 WhatsAapc", url="https://wa.me/qr/XALM4UGBUJJWI1"
+                        "🌐 WhatsAap", url="https://wa.me/qr/XALM4UGBUJJWI1"
                     )
                 ],
             ]
